@@ -1,6 +1,6 @@
 ﻿AUTHOR: AVIGYAN SINHA
 
-This project contains the VGGnet architecture of Deep-learning in fer2013 dataset
+This project uses a modified VGGnet architecture of deep learning and applies it to the fer2013 dataset
 
 The Fer2013:
 The Kaggle Emotion and Facial Expression Recognition challenge training dataset consists of 28,709 images, each of which are 48×48 grayscale images. The faces have been
