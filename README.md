@@ -9,7 +9,7 @@ angry, fear, happy, sad, surprise, and neutral.
 
 This facial expression dataset is called the FER13 dataset and can be found at the official Kaggle
 competition page and downloading the fer2013.tar.gz file:
-http://pyimg.co/a2soy
+https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data 
 
 The .tar.gz archive of the dataset is ≈ 92MB, so make sure you have a decent internet connection before downloading it. After downloading the dataset, you’ll find a file named fer2013.csv
 with with three columns:
